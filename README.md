@@ -63,11 +63,10 @@ What do you need to know
 ##### Mobile developer
 
 What do you need to know
-- React / Native react
-- Angular
+- React Native or Ionic or native mobile development (ios or android)
 
 ---
 
 #### Available job challenges
 
- [Full-stack](./jobs/challenge.md)
+ [Full-stack](./challenges/fullstack.md)
